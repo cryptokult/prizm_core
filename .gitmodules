@@ -1,0 +1,3 @@
+[submodule "PrizmCore"]
+	path = PrizmCore
+	url = https://github.com/prizmspace/PrizmCore
